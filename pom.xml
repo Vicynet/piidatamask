@@ -11,14 +11,24 @@
     <groupId>dev.vicynet</groupId>
     <artifactId>piidatamask</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>piidatamask</name>
-    <description>piidatamask</description>
-    <url/>
+    <packaging>jar</packaging>
+    <name>PII Data Mask</name>
+    <description>A Data Masking Library for Sensitive Personal Identification Information</description>
+    <url>https://github.com/Vicynet/piidatamask.git</url>
     <licenses>
-        <license/>
+        <license>
+            <name>Apache License, Version 2.0</name>
+            <url>http://www.apache.org/licenses/LICENSE-2.0</url>
+            <distribution>repo</distribution>
+        </license>
     </licenses>
     <developers>
-        <developer/>
+        <developer>
+            <id>Vicynet</id>
+            <name>Victor Ihedioha</name>
+            <email>ihedioha.victor@gmail.com</email>
+            <url>https://github.com/Vicynet</url>
+        </developer>
     </developers>
     <scm>
         <connection/>
